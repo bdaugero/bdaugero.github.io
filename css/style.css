@@ -261,6 +261,7 @@ header {
 
 @media (min-width: 600px) {
     .intro {
+        padding-bottom: 0em;
         display: grid;
         width: min-content;
         margin: 0 auto;
